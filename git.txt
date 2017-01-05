@@ -8,4 +8,8 @@ git commit -m "текст комментария"
 git log - смотрим состояние коммитов-фиксированных изменений
 
 
+git config --global user.name 'Anna Mahovskaja'
+git config --global user.email 'mahovskie@mail.ru'
+
+git config - смотреть команды
 
